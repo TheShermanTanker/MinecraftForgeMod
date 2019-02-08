@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgeclient",
+  "name": "snipermod",
+  "description": "A client that can shoot over cover",
+  "version": "1.11.2",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_vertig0"],
+  "credits": "Forge Arrows Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
